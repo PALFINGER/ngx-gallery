@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { Gallery, GalleryConfig, GalleryItemType } from '@ngx-gallery/core';
+import { Gallery, GalleryConfig, GalleryItemType } from 'ngx-gallery2-core';
 import { MediaChange, MediaObserver } from '@angular/flex-layout';
 import { Observable } from 'rxjs';
 import { map } from 'rxjs/operators';
@@ -130,7 +130,7 @@ const code = {
   </span>
 </ng-template>`,
   component: `import { Component, OnInit } from '@angular/core';
-import { Gallery, GalleryRef } from '@ngx-gallery/core';
+import { Gallery, GalleryRef } from 'ngx-gallery2-core';
 
 @Component({...})
 export class AppComponent implements OnInit {

@@ -1,5 +1,5 @@
 {
-  "name": "@ngx-gallery/core",
+  "name": "ngx-gallery2-core",
   "version": "VERSION",
   "description": "Angular gallery directive that hooks the lightbox with the images automatically.",
   "homepage": "http://github.com/murhafsousli/ngx-gallery",

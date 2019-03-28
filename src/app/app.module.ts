@@ -6,8 +6,8 @@ import { MatButtonModule, MatToolbarModule } from '@angular/material';
 import { AppRoutingModule } from './app-routing';
 import { AppComponent } from './app.component';
 
-import { GalleryModule } from '@ngx-gallery/core';
-import { LightboxModule } from '@ngx-gallery/lightbox';
+import { GalleryModule } from 'ngx-gallery2-core';
+import { LightboxModule } from 'ngx-gallery2-lightbox';
 import { GallerizeModule } from '@ngx-gallery/gallerize';
 import { HomeComponent } from './home/home.component';
 import { LazyComponent } from './lazy/lazy.component';

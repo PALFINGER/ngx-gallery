@@ -16,7 +16,7 @@ import { SharedModule } from './shared/shared.module';
 import { NgProgressModule } from '@ngx-progressbar/core';
 import { NgProgressHttpModule } from '@ngx-progressbar/http';
 import { NgProgressRouterModule } from '@ngx-progressbar/router';
-import { GALLERY_CONFIG } from '@ngx-gallery/core';
+import { GALLERY_CONFIG } from 'ngx-gallery2-core';
 
 import xml from 'highlight.js/lib/languages/xml';
 import scss from 'highlight.js/lib/languages/scss';

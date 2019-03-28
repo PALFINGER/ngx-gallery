@@ -5,8 +5,8 @@
   "lib": {
     "entryFile": "src/public_api.ts",
     "externals": {
-      "@ngx-gallery/core": "@ngx-gallery/core",
-      "@ngx-gallery/lightbox": "@ngx-gallery/lightbox"
+      "ngx-gallery2-core": "ngx-gallery2-core",
+      "ngx-gallery2-lightbox": "ngx-gallery2-lightbox"
     }
   }
 }

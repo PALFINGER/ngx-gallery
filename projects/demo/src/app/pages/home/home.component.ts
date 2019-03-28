@@ -3,7 +3,7 @@ import { Title } from '@angular/platform-browser';
 import { map } from 'rxjs/operators';
 import { MediaChange, MediaObserver } from '@angular/flex-layout';
 import { Observable } from 'rxjs';
-import { GalleryConfig, GalleryItem } from '@ngx-gallery/core';
+import { GalleryConfig, GalleryItem } from 'ngx-gallery2-core';
 import { Pixabay } from '../../service/pixabay.service';
 
 @Component({

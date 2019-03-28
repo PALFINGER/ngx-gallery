@@ -64,10 +64,10 @@ Awesome, nor vice versa. **Please do not use brand logos for any purpose except
 to represent the company, product, or service to which they refer.**
 
 
-@ngx-gallery/core
+ngx-gallery2-core
 MIT
 
-@ngx-gallery/lightbox
+ngx-gallery2-lightbox
 MIT
 
 @angular/cdk

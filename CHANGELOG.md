@@ -31,7 +31,7 @@ In this example, will set global config without importing the library in the mai
 - Provide `GALLERY_CONFIG` value in the root module
 
 ```ts
-import { GALLERY_CONFIG } from '@ngx-gallery/core';
+import { GALLERY_CONFIG } from 'ngx-gallery2-core';
 
 @NgModule({
   providers: [
@@ -50,7 +50,7 @@ export class AppModule { }
 - Import `GalleryModule` in a feature module
 
 ```ts
-import { GalleryModule } from '@ngx-gallery/core';
+import { GalleryModule } from 'ngx-gallery2-core';
 
 @NgModule({
   imports: [
@@ -210,15 +210,15 @@ galleryRef.addVideo({
 **Before:**
 
 ```scss
-@import '~@ngx-gallery/core/styles/gallery';
+@import '~ngx-gallery2-core/styles/gallery';
 ```
 
 **After:**
 
 ```scss
-@import '~@ngx-gallery/core/styles/scss/gallery';
+@import '~ngx-gallery2-core/styles/scss/gallery';
 // or for css
-@import '~@ngx-gallery/core/styles/css/gallery';
+@import '~ngx-gallery2-core/styles/css/gallery';
 ```
 
 ## 3.0.2

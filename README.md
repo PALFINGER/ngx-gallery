@@ -8,9 +8,9 @@
 
 [![npm](https://img.shields.io/badge/demo-online-ed1c46.svg)](https://murhafsousli.github.io/ngx-gallery/)
 [![npm](https://img.shields.io/badge/stackblitz-online-orange.svg)](https://stackblitz.com/edit/ngx-gallery)
-[![npm](https://img.shields.io/npm/v/@ngx-gallery/core.svg?maxAge=2592000?style=plastic)](https://www.npmjs.com/package/@ngx-gallery/core)
+[![npm](https://img.shields.io/npm/v/ngx-gallery2-core.svg?maxAge=2592000?style=plastic)](https://www.npmjs.com/package/ngx-gallery2-core)
 [![Travis branch](https://travis-ci.org/MurhafSousli/ngx-gallery.svg?branch=master)](https://travis-ci.org/MurhafSousli/ngx-gallery)
-[![npm](https://img.shields.io/npm/dt/@ngx-gallery/core.svg?maxAge=2592000?style=plastic)](https://www.npmjs.com/package/@ngx-gallery/core)
+[![npm](https://img.shields.io/npm/dt/ngx-gallery2-core.svg?maxAge=2592000?style=plastic)](https://www.npmjs.com/package/ngx-gallery2-core)
 [![npm](https://img.shields.io/npm/l/express.svg?maxAge=2592000)](/LICENSE)
 
 
@@ -25,7 +25,7 @@
 
 ## Issues
 
-If you identify any errors in this module, or have an idea for an improvement, please open an [issue](https://github.com/MurhafSousli/@ngx-gallery/core/issues).
+If you identify any errors in this module, or have an idea for an improvement, please open an [issue](https://github.com/MurhafSousli/ngx-gallery2-core/issues).
 
 ## Author
 

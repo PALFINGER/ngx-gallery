@@ -8,8 +8,8 @@ import { ChangeDetectionStrategy, Component } from '@angular/core';
 })
 export class DocLightboxComponent {
 
-  docs = `import { GalleryModule } from  '@ngx-gallery/core';
-import { LightboxModule } from  '@ngx-gallery/lightbox';
+  docs = `import { GalleryModule } from  'ngx-gallery2-core';
+import { LightboxModule } from  'ngx-gallery2-lightbox';
 
 @NgModule({
   imports: [
@@ -18,8 +18,8 @@ import { LightboxModule } from  '@ngx-gallery/lightbox';
   ]
 })`;
 
-  docsWithConfig = `import { GalleryModule } from  '@ngx-gallery/core';
-import { LightboxModule } from  '@ngx-gallery/lightbox';
+  docsWithConfig = `import { GalleryModule } from  'ngx-gallery2-core';
+import { LightboxModule } from  'ngx-gallery2-lightbox';
 
 @NgModule({
   imports: [
@@ -28,7 +28,7 @@ import { LightboxModule } from  '@ngx-gallery/lightbox';
   ]
 })`;
 
-  globalConfig = `import { LIGHTBOX_CONFIG } from '@ngx-gallery/lightbox';
+  globalConfig = `import { LIGHTBOX_CONFIG } from 'ngx-gallery2-lightbox';
 
 @NgModule({
   providers: [

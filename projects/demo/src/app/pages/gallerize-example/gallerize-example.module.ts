@@ -3,8 +3,8 @@ import { RouterModule } from '@angular/router';
 import { SharedModule } from '../../shared/shared.module';
 import { GallerizeExampleComponent } from './gallerize-example.component';
 
-import { GalleryModule } from '@ngx-gallery/core';
-import { LightboxModule } from '@ngx-gallery/lightbox';
+import { GalleryModule } from 'ngx-gallery2-core';
+import { LightboxModule } from 'ngx-gallery2-lightbox';
 import { GallerizeModule } from '@ngx-gallery/gallerize';
 
 @NgModule({

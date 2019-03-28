@@ -1,5 +1,5 @@
 {
-  "name": "@ngx-gallery/lightbox",
+  "name": "ngx-gallery2-lightbox",
   "version": "VERSION",
   "description": "Angular gallery directive that hooks the lightbox with the images automatically.",
   "homepage": "http://github.com/murhafsousli/ngx-gallery",
@@ -34,6 +34,6 @@
     "@angular/platform-browser": ">=6.0.0",
     "@angular/cdk": ">=7.0.0",
     "rxjs": ">=6.0.0",
-    "@ngx-gallery/core": "VERSION"
+    "ngx-gallery2-core": "VERSION"
   }
 }

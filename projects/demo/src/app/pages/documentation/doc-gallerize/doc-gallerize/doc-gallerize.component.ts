@@ -8,8 +8,8 @@ import { ChangeDetectionStrategy, Component } from '@angular/core';
 })
 export class DocGallerizeComponent {
 
-  docs = `import { GalleryModule } from  '@ngx-gallery/core';
-import { LightboxModule } from  '@ngx-gallery/lightbox';
+  docs = `import { GalleryModule } from  'ngx-gallery2-core';
+import { LightboxModule } from  'ngx-gallery2-lightbox';
 import { GallerizeModule } from  '@ngx-gallery/gallerize';
 
 @NgModule({

@@ -3,7 +3,7 @@ import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs';
 import { map, publishReplay, refCount } from 'rxjs/operators';
 
-import { ImageItem, GalleryItem } from '@ngx-gallery/core';
+import { ImageItem, GalleryItem } from 'ngx-gallery2-core';
 
 import { Hit, Hit2, PixabayHDModel, PixabayModel } from './pixabay.model';
 

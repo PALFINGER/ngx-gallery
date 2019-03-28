@@ -2,7 +2,7 @@ import { ComponentRef, Inject, Injectable, Optional } from '@angular/core';
 import { ComponentPortal } from '@angular/cdk/portal';
 import { Overlay, OverlayRef, OverlayConfig } from '@angular/cdk/overlay';
 import { LEFT_ARROW, RIGHT_ARROW, ESCAPE } from '@angular/cdk/keycodes';
-import { Gallery } from '@ngx-gallery/core';
+import { Gallery } from 'ngx-gallery2-core';
 import { Subject } from 'rxjs';
 
 import { LightboxConfig, LIGHTBOX_CONFIG } from './lightbox.model';

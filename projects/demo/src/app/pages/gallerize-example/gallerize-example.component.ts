@@ -1,6 +1,6 @@
 import { ChangeDetectionStrategy, Component, OnInit } from '@angular/core';
 import { Title } from '@angular/platform-browser';
-import { Gallery } from '@ngx-gallery/core';
+import { Gallery } from 'ngx-gallery2-core';
 import { Pixabay } from '../../service/pixabay.service';
 
 @Component({

@@ -30,8 +30,8 @@
     "build-core": "ng build core",
     "build-lightbox": "ng build lightbox",
     "build-gallerize": "ng build gallerize",
-    "link-core": "npm link dist/core && npm link @ngx-gallery/core",
-    "link-lightbox": "npm link dist/lightbox && npm link @ngx-gallery/lightbox",
+    "link-core": "npm link dist/core && npm link ngx-gallery2-core",
+    "link-lightbox": "npm link dist/lightbox && npm link ngx-gallery2-lightbox",
     "link-gallerize": "npm link dist/gallerize && npm link @ngx-gallery/gallerize",
     "publish-all": "node .config/publish.js",
     "version": "node .config/version.js"

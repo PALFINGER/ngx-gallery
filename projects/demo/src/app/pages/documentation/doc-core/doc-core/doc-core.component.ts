@@ -8,7 +8,7 @@ import { ChangeDetectionStrategy, Component } from '@angular/core';
 })
 export class DocCoreComponent {
 
-  docs = `import { GalleryModule } from  '@ngx-gallery/core';
+  docs = `import { GalleryModule } from  'ngx-gallery2-core';
 
 @NgModule({
   imports: [
@@ -16,7 +16,7 @@ export class DocCoreComponent {
   ]
 })`;
 
-  docsWithConfig = `import { GalleryModule } from  '@ngx-gallery/core';
+  docsWithConfig = `import { GalleryModule } from  'ngx-gallery2-core';
 
 @NgModule({
   imports: [
@@ -24,7 +24,7 @@ export class DocCoreComponent {
   ]
 })`;
 
-  globalConfig = `import { GALLERY_CONFIG } from '@ngx-gallery/core';
+  globalConfig = `import { GALLERY_CONFIG } from 'ngx-gallery2-core';
 
 @NgModule({
   providers: [

@@ -3,7 +3,7 @@ import { RouterModule } from '@angular/router';
 import { SharedModule } from '../../shared/shared.module';
 import { GalleryExampleComponent } from './gallery-example.component';
 
-import { GalleryModule } from '@ngx-gallery/core';
+import { GalleryModule } from 'ngx-gallery2-core';
 
 @NgModule({
   declarations: [
